@@ -1,2 +1,2 @@
 ﻿# git-practice
-KT practice
+KT
